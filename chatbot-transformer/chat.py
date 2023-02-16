@@ -5,7 +5,6 @@ import torch.utils.data
 from models import *
 from utils import *
 
-
 load_checkpoint = True
 ckpt_path = 'checkpoint.pth.tar'
 
